@@ -1,3 +1,46 @@
 h1 {
-    color: blanchedalmond;
-}
+    color: #ecd5b2 
+    }
+    h2{
+    color: rgb(236, 213, 178)
+    }
+    h3 {
+        color: rgb(126, 145, 96);
+    }
+    ul {
+        border: 5px dashed;
+        width: 50%;
+        margin: auto;
+        padding: 0;
+        text-align: center;
+        list-style: none;
+    }
+    ul li {
+        border: outset;
+        display: inline-block;
+    }
+    
+    ul li a {
+    
+    }
+    h4 {
+    color: rgb(231, 170, 159);
+    }
+    
+    
+    img{
+        display: block;
+        width: 50%;
+        margin: auto;
+    }
+    body.homepage {
+        background-image: url(iceland-hot-springs-post.jpeg);
+    }
+    h5 {
+        color: rgb(126, 145, 96);
+    }
+    ol {
+        color: rgb(126, 145, 96);
+    }
+    
+    
